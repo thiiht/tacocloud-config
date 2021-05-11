@@ -9,4 +9,4 @@ eureka:
 spring:
   data:
     mongodb:
-      password: '{cipher}93912a660a7f3c04e811b5df9a3cf6e1f63850cdcd4aa092cf5a3f7e1662fab7'
+      password: '{cipher}9e935e47ccac16546a36251d3dbfa6c85956ed10d0636d3f101a347550f2fdf5'
